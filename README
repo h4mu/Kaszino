@@ -1,0 +1,18 @@
+         
+              -= THE GREAT HAMUSOFT KASZINO README =-
+                 ---------------------------------
+
+
+SYSTEM REQUIREMENTS:
+100% IBM compatible PC
+Standard Keyboard
+PC Speaker for sound effects
+Video Graphics Adapter
+
+NOTE
+I have written an Installer which is quite pretty, but does not seem to copy correctly. If you are interested in pretty, but non-functioning Installer programs, then you can use the .bas sources and run them from QBASIC. QBASIC is usually shipped with the MS-DOS operating systems, but can also be found on some Windows Installation disks.
+
+TROUBLESHOOT
+If you can't exit from the program don't panic. It's not a bug, it's a feature =D. If you really want to quit you should try and press N instead of Y =).
+
+ENJOY!
